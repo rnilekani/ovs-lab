@@ -5,7 +5,7 @@ This is a companion project to the Open vSwitch series of articles at
 http://www.relaxdiego.com.
 
 
-Requirements
+Requirements:
 ------------
 
 1. VirtualBox. Install from https://www.virtualbox.org/wiki/Downloads
